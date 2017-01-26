@@ -78,6 +78,6 @@
 *  if product in NTC, check if its Tm is different from target reaction Tm. If Tm is not very different: its Ct should be at least 5 higher than of the target reaction.
 *  check NAC control for amplification of gDNA. If Tm of NAC fragment is different, check that NAC fragment is not present in target reactions. If Tm is not very different, Ct value should be at least 5 higher than of the target reaction.
 *  primer specificity: only one clear curve should be present in the dissociation analysis
-*  check primer efficiencies in dilution series; should be around 2 (double each cycle). Plot the log of cDNA concentration against the Ct value. (see excel calculation sheet).
+*  check primer efficiencies in dilution series; should be around 3 (double each cycle). Plot the log of cDNA concentration against the Ct value. (see excel calculation sheet).
 
 # test for michelle
