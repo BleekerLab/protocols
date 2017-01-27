@@ -18,12 +18,12 @@
 *  include NAC and NTC (see below)
 *  0,5-2 µg total RNA
 *  add 1 µl oligo(dT)18
-*  up to 12 µl with H2O dd
+*  up to 13 µl with H2O dd
 *  5’ 70°C, chill on melting ice
 *  add 4 µl 5x buffer
 *  add 2 µl 10 mM dNTPs
+* (optional) Add 40units of RNAse out. Adjust H2O volume accordingly.
 *  add 0,25-1 µl RT transcriptase (amount depending on total RNA input)
-*  add 0,75-0 µl H2O dd (adds up to 1 µl with RT transcriptase)
 *  60’ 42°C
 *  10’ 70°C, chill on melting ice
 *  When used 1 µg you count with RNA equivalent concentration of 50 ng µl-1 
