@@ -1,5 +1,7 @@
 # How to perform a blast locally on your own computer.
 
+Most things come NCBI directly: [find it here](https://www.ncbi.nlm.nih.gov/books/NBK52640/)
+
 # Installation and setup of the blast program
 ## get the latest NCBI blast program.
 
