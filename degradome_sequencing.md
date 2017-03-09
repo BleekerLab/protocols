@@ -269,14 +269,27 @@ Ligation 1h at room temperature.
 __Equipment__
 
 12% PAGEr gold precast gels (Lonza n°59528)
-6X Gel Loading Buffer (ref n°
+1X TBE buffer
+6X Gel Loading Buffer (Blue/Orange loading dye, Promega n°G1881)
+
+_From the supplier:_ 
+Blue/Orange Loading Dye, 6X, is a convenient marker dye containing 0.4% orange G, 0.03% bromophenol blue, 0.03% > xylene cyanol FF, 
+15% Ficoll® 400, 10mM Tris-HCl (pH 7.5) and 50mM EDTA (pH 8.0). It is provided in a premixed, ready-to-use form. The dye is used for loading DNA samples into gel electrophoresis wells and tracking migration during electrophoresis. In a 0.5–1.4% agarose gel in 0.5X TBE, xylene cyanol FF migrates at approximately 4kb, bromophenol blue at approximately 300bp and orange G at approximately 50bp.
+
 Water bath set at 50°C
 Sodium acetate 3M pH 5.0
 Isopropanol
 Make sure that ethanol (96-100%) is added to the buffer PE
+GeneRuler Ultra Low Range DNA Ladder (Thermo Fisher Scientific n°SM1213)
+
+### PAGE 
+1.  Add 6µl of 6X Gel Loading Buffer to the 30µl of ligated dsDNA product 
+2.  Prepare marker. Mix 1µl of 6X Gel Loading Buffer with 5µl of GeneRuler Ultra Low Range DNA Ladder 
+3.  Run the gel for 1h at 160V for good separation of the dyes.
+4.  Stain in ethidium bromide (3µl in 100ml MilliQ water). Shake for 10min.
 
 
-__Protocol__
+### Purification of DNA from gel slice
 Weight the eppendorf tubes before ? And then tube+gel to get an idea of how much gel I get.
 All centrifugation steps take place at 17,900 xg (13000rpm)
 1.  Excise gel slice that contains the DNA with a sharp and clean scalpel
@@ -299,6 +312,12 @@ All centrifugation steps take place at 17,900 xg (13000rpm)
 18.  Add 30µl of elution buffer to the center of the QIAquick membrane.
 19.  Wait for 5min.
 20.  Centrifuge 1min
+
+Elution efficiency is dependent on pH. The maximum elution efficiency is achieved between
+pH 7.0 and 8.5. When using water, make sure that the pH value is within this range, and
+store DNA at –20°C as DNA may degrade in the absence of a buffering agent. The purified
+DNA can also be eluted in TE buffer (10 mM Tris·Cl, 1 mM EDTA, pH 8.0), but the EDTA
+may inhibit subsequent enzymatic reactions.
 
 
 
