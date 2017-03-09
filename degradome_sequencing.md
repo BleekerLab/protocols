@@ -264,3 +264,42 @@ Keep at room temperature
 
 Ligation 1h at room temperature.
 
+## PAGE purification of ligated dsDNA products (62bp)
+
+__Equipment__
+
+12% PAGEr gold precast gels (Lonza n°59528)
+6X Gel Loading Buffer (ref n°
+Water bath set at 50°C
+Sodium acetate 3M pH 5.0
+Isopropanol
+Make sure that ethanol (96-100%) is added to the buffer PE
+
+
+__Protocol__
+Weight the eppendorf tubes before ? And then tube+gel to get an idea of how much gel I get.
+All centrifugation steps take place at 17,900 xg (13000rpm)
+1.  Excise gel slice that contains the DNA with a sharp and clean scalpel
+2.  Add 3 volumes of buffer QG to 1 volume of excised gel (color of buffer QG must be yellow pH inferior to 7.5).
+3.  Incubate at 50°C during 30min. Gel must have dissolved. Vortex every 2-3 min to help the gel to dissolve.
+4.  Check that the color of the mixture is yellow. If the color becomes orange or violet then add 10µl of sodium acetate 3M pH 5 and mix.
+5.  Add 1 volume of isopropanol for 1 volume of gel. Mix well.
+6.  Place a QIAquick spin column in a provided 2ml tube.
+7.  Centrifuge for 1min.
+8.  Discard the flow through and place the QIAquick column back into the same tube.
+9.  Add 500µl buffer QG to the QIAquick column.
+10.  Centrifuge for 1min.
+11.  Discard the flow through and place the QIAquick column back into the same tube.
+12.  Add 750µl of buffer PE to the QIAquick column.
+13.  Centrifuge for 1min
+14.  Discard flow-through and place QIAquick column back into the same tube.
+15.  Let column stand for 2-5min.
+16.  Centrifuge for 1min to remove any residual wash buffer.
+17.  Place QIAquick column into a clean 1.5ml eppendorf tube
+18.  Add 30µl of elution buffer to the center of the QIAquick membrane.
+19.  Wait for 5min.
+20.  Centrifuge 1min
+
+
+
+
