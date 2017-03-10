@@ -292,6 +292,7 @@ GeneRuler Ultra Low Range DNA Ladder (Thermo Fisher Scientific n°SM1213)
 ### Purification of DNA from gel slice
 Weight the eppendorf tubes before ? And then tube+gel to get an idea of how much gel I get.
 All centrifugation steps take place at 17,900 xg (13000rpm)
+
 1.  Excise gel slice that contains the DNA with a sharp and clean scalpel
 2.  Add 3 volumes of buffer QG to 1 volume of excised gel (color of buffer QG must be yellow pH inferior to 7.5).
 3.  Incubate at 50°C during 30min. Gel must have dissolved. Vortex every 2-3 min to help the gel to dissolve.
