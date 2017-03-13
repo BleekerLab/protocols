@@ -1,5 +1,6 @@
 # Recipe for degradome sequencing
 Based on Zhai et al. 2014 Methods 84-90
+
 __Important__: this protocol is for 10µg of total RNA. In the paper they recommend 75µg of total RNA but I downscaled it.
 Total RNA has to be previously isolated and in stored in nuclease-free water. 
 
