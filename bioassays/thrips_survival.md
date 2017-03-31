@@ -2,6 +2,8 @@
 __Goal:__ assess the survival of western flower thrips on leaf discs of different tomato genotypes.
 
 # Prepare an egg wave:
+In a plastic box with a mesh filter (for aeration), place adult female thrips on green bean pods dusted with pollen.
+The rule of thumb is to count 5 eggs/day/female thrips.
 *  Day 1: place adult female thrips to lay eggs (1 female lays around 5 eggs per day)
 *  Day 3: after 2 full days, eggs are layed.
 *  Day 10: the first nymphs should be ready for experiments. Egg hatching depends on the environment conditions.
