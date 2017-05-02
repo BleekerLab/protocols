@@ -37,7 +37,7 @@ Isopropanol
 19. Spin 5min at max speed
 20. Discard supernatant and add 500µl ethanol 70%
 21. Spin 5min max speed
-22. Discard supernatant. 
+22. Dry the pellet (spin and discard supernatant)
 23. Resuspend the pellet in 30µl of nuclease-free water.
 24. Store at -80°C
 
