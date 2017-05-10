@@ -15,11 +15,11 @@ The rule of thumb is to count 5 eggs/day/female thrips.
 2.  Take a 1.5cm diameter leaf disc from the accession of interest (leaf disk area = 1.77cm2)
 3.  Place the leaf disc in the well with the abaxial side ("down side of the leaf") upwards. 
 4.  Each leaf disk receives 20µl of liquid. Depending on the condition:
-  a.  Untreated: 20µl of water  
-  b.  Mock: 5µl of ethanol 100% mixed with 15µl of water
-  c.  1µg: a volume necessary for 1µg of 2-tridecanone is dried under liquid nitrogen in ice. This dry extract is then resuspended in 5µl of ethanol 100%. Once solubilized, it is mixed with 15µl of water.
-  d.  10µg: a volume necessary for 1µg of 2-tridecanone is dried under liquid nitrogen in ice. This dry extract is then resuspended in 5µl of ethanol 100%. Once solubilized, it is mixed with 15µl of water.
-  e.  etc.
+  *  Untreated: 20µl of water  
+  *  Mock: 5µl of ethanol 100% mixed with 15µl of water
+  *  1µg: a volume necessary for 1µg of 2-tridecanone is dried under liquid nitrogen in ice. This dry extract is then resuspended in 5µl of ethanol 100%. Once solubilized, it is mixed with 15µl of water.
+  *  10µg: a volume necessary for 1µg of 2-tridecanone is dried under liquid nitrogen in ice. This dry extract is then resuspended in 5µl of ethanol 100%. Once solubilized, it is mixed with 15µl of water.
+  *   10µg: a volume necessary for 1µg of 2-tridecanone is dried under liquid nitrogen in ice. This dry extract is then resuspended in 5µl of ethanol 100%. Once solubilized, it is mixed with 15µl of water.
 5.  Seal with an adhesive transparent lid (adhesive seal for 96-well plate). You can also keep the transparent plastic lid and seal with regular tape.
 
 # recordings are then done every day.
