@@ -1,4 +1,4 @@
-# Thrips survival assay
+# Thrips toxicity assay
 __Goal:__ assess the survival of western flower thrips on leaf discs treated with increasing doses of compound(s) to test. 
 Purified SPE fractions can also be tested. 
 
