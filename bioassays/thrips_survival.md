@@ -9,8 +9,8 @@ The rule of thumb is to count 5 eggs/day/female thrips.
 *  Day 10: the first nymphs should be ready for experiments. Egg hatching depends on the environment conditions.
 
 # Setup
-1.  Fill each well of a 12-well plate with a 20mm Whatman filter paper with 500µl of tap water.
-2.  Take a 1.5cm diameter leaf disc from the accession of interest
+1.  Fill each well of a Greiner Bio-one 12-well plate (no 665180) with a 20mm Whatman filter paper with 150µl of tap water.
+2.  Take a 1.5cm diameter leaf disc from the accession of interest (leaf disk area = 1.77cm2)
 3.  Place the leaf disc in the well with the abaxial side ("down side of the leaf") upwards. 
 4.  Seal with an adhesive transparent lid (adhesive seal for 96-well plate)
 
