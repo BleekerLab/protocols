@@ -20,9 +20,12 @@ The rule of thumb is to count 5 eggs/day/female thrips.
   *  1µg: a volume necessary for 1µg of 2-tridecanone is dried under liquid nitrogen in ice. This dry extract is then resuspended in 5µl of ethanol 100%. Once solubilized, it is mixed with 15µl of water.
   *  10µg: a volume necessary for 1µg of 2-tridecanone is dried under liquid nitrogen in ice. This dry extract is then resuspended in 5µl of ethanol 100%. Once solubilized, it is mixed with 15µl of water.
   *   10µg: a volume necessary for 1µg of 2-tridecanone is dried under liquid nitrogen in ice. This dry extract is then resuspended in 5µl of ethanol 100%. Once solubilized, it is mixed with 15µl of water.
-5.  Seal with an adhesive transparent lid (adhesive seal for 96-well plate). You can also keep the transparent plastic lid and seal with regular tape.
+5.  Seal with the sides of the 12-well plate with normal adhesive tape. That way, you can keep the transparent plastic lid and seal with regular tape.
+6. Place in controlled environmental conditions (temperature, light, humidity)
 
-# recordings are then done every day.
+# Measurements
+Recordings are then done every day __until all larvae die__
+
 The analysis is a survival analysis also called "time to death". Thus, we only record:
 *  __dead:__ dead thrips on day x: mark "1" in the corresponding the well coordinate and plate number
 *  __alive:__ live thrips on day x: mark "0" in the well coordinate and plate number
