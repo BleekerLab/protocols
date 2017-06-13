@@ -3,6 +3,14 @@ __Goal:__ assess the survival of western flower thrips on leaf discs treated wit
 Purified SPE fractions can also be tested. 
 
 # Prepare an egg wave:
+Pod preparation:
+*  Get fresh non-organic green bean pods ("snijbonen") from your local shop. 
+*  Rinse with a lot of water and some bleach. Rinse thoroughly until bleach is gone (no more smell).
+*  Dry them with paper towel.
+*  Store at 4°C in between paper towels
+
+Buy new pods every 1 or 2 weeks.
+
 In a plastic box with a mesh filter (for aeration), place adult female thrips on green bean pods dusted with pollen.
 The rule of thumb is to count 5 eggs/day/female thrips.
 *  Day 1: place adult female thrips to lay eggs (1 female lays around 5 eggs per day)
