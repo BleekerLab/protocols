@@ -21,15 +21,21 @@ The rule of thumb is to count 5 eggs/day/female thrips.
 # Assay Setup (example of 2-tridecanone)
 1.  Fill each well of a Greiner Bio-one 12-well plate (no 665180) with a 20mm Whatman filter paper with 150µl of tap water.
 2.  Take a 1.5cm diameter leaf disc from the accession of interest (leaf disk area = 1.77cm2)
-3.  Place the leaf disc in the well with the abaxial side ("down side of the leaf") upwards. 
-4.  Each leaf disk receives 20µl of liquid. Depending on the condition:
-  *  Untreated: 20µl of water  
-  *  Mock: 5µl of ethanol 100% mixed with 15µl of water
-  *  1µg: a volume necessary for 1µg of 2-tridecanone is dried under liquid nitrogen in ice. This dry extract is then resuspended in 5µl of ethanol 100%. Once solubilized, it is mixed with 15µl of water.
-  *  10µg: a volume necessary for 1µg of 2-tridecanone is dried under liquid nitrogen in ice. This dry extract is then resuspended in 5µl of ethanol 100%. Once solubilized, it is mixed with 15µl of water.
-  *   10µg: a volume necessary for 1µg of 2-tridecanone is dried under liquid nitrogen in ice. This dry extract is then resuspended in 5µl of ethanol 100%. Once solubilized, it is mixed with 15µl of water.
+3.  Place the leaf disc in the well with the adaxial side ("upper side of the leaf") upwards.
+4. Place one nymph in each well.
+5.  Prepare 10 mm Whatman filter discs; 1 per well.
+Treatments:
+  *  Untreated: clean disc.  
+  *  Mock: 10 ul of acetone evaporated on ice under nitrogen.
+  *  1µg: - dry a volume necessary for 1µg of 2-tridecanone under liquid nitrogen in ice;
+- resuspend the compound in 10µl of acetone
+- apply 10 ul of the solution on a disc and acetone is evaporated on ice under nitrogen;
+- fold the disc  in two and place in the well
+  *  10µg: -a volume necessary for 1µg of 2-tridecanone is dried under liquid nitrogen in ice. Proceed like in the previous treatment.
+  *   10µg: a volume necessary for 1µg of 2-tridecanone is dried under liquid nitrogen in ice. Proceed like in the previous treatment.
 5.  Seal with the sides of the 12-well plate with normal adhesive tape. That way, you can keep the transparent plastic lid and seal with regular tape.
 6. Place in controlled environmental conditions (temperature, light, humidity)
+
 
 # Measurements
 Recordings are then done every day __until all larvae die__
