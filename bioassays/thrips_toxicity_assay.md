@@ -5,13 +5,13 @@ Purified SPE fractions can also be tested.
 # Prepare an egg wave:
 Pod preparation:
 *  Get fresh non-organic green bean pods ("snijbonen") from your local shop. 
-*  Rinse with a lot of water and some bleach. Rinse thoroughly until bleach is gone (no more smell).
+*  Add 5ml of thick bleach and 10 drops of dishwashing liquid to 5L of tap water. Rinse 5x with tap water thoroughly until bleach is gone (no more smell).
 *  Dry them with paper towel.
 *  Store at 4°C in between paper towels
 
 Buy new pods every 1 or 2 weeks.
 
-In a plastic box with a mesh filter (for aeration), place adult female thrips on green bean pods dusted with pollen.
+In a plastic box with a mesh filter (for aeration), place adult female thrips on green bean pods dusted with [Typha latifolia](https://en.wikipedia.org/wiki/Typha_latifolia) (broadleaf cattail) pollen.
 The rule of thumb is to count 5 eggs/day/female thrips.
 *  Day 1: place adult female thrips to lay eggs (1 female lays around 5 eggs per day)
 *  Day 3 to day 5: adult thrips can left on the green bean pods for 2 to 5 full days. For instance, 10 female thrips will lay around 60 eggs.
