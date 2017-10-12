@@ -9,7 +9,7 @@ Pod preparation:
 *  Dry them with paper towel.
 *  Store at 4°C in between paper towels
 
-Buy new pods every 1 or 35 weeks.
+Buy new pods every 1 or 2 weeks.
 
 In a plastic box with a mesh filter (for aeration), place adult female thrips on green bean pods dusted with [Typha latifolia](https://en.wikipedia.org/wiki/Typha_latifolia) (broadleaf cattail) pollen.
 The rule of thumb is to count 5 eggs/day/female thrips.
