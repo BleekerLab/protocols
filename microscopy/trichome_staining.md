@@ -19,6 +19,7 @@ __Prepare a MES/KCl solution__
 *  250mM MES (5.33g for 100ml final volume)
 *  0.1M KCl (745.5mg for 100ml final volume)
 *  Adjust pH to 5.7
+*  Keep at 4°C
 
 __Staining solution__
 1.  1X MES/KCl solution supplemented with ~2µl of [Tween™ 20 Surfact-Amps™ Detergent Solution](https://www.thermofisher.com/order/catalog/product/85114?gclid=EAIaIQobChMI_ezFvo_r1gIVFTPTCh0Png7REAAYAiAAEgIZkPD_BwE&s_kwcid=AL!3652!3!100859398934!e!!g!!tween%2020&mkwid=sciAEE7Tu-dc_pcrid_100859398934_pkw_tween%2020_pmt_e_slid__dimid=&ef_id=V0vunQAAAKoG9rZ0:20171012124919:s) (Thermofisher, catalog number: 85114) 
