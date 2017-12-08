@@ -22,7 +22,7 @@ Isopropanol
 4.  Let the mixture become clear again. Leave 5' at room temperature or slightly warm up
 5.  Add 200µl chloroform / ml of Trizol
 6.  Vortex vigorously for 15sec
-7.  Spin 5min at max speed (~14000xg)
+7.  Spin 5min at max speed (~14000rpm)
 8.  Transfer supernatant to a new tube
 9.  Add 1/2 vol/vol of phenol:chloroform and vortex. 
 10. Spin 5min at max speed (~14000g)
