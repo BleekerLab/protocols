@@ -14,7 +14,7 @@ Buffer RPE is supplied as a concentrate. Before using for the first time, add 4 
 2.  Transfer the lysate to a QIAshredder spin column (lilac) placed in a 2 ml collection tube, and centrifuge for 2 min at full speed. Carefully transfer the supernatant of
 the flow-through to a new microcentrifuge tube (not supplied) without disturbing the cell-debris pellet in the collection tube. Use only this supernatant in subsequent
 steps.
-3.  Add 1.5 volume of ethanol (96%) to the cleared lysate, and mix immediately by pipetting. Do not centrifuge. 
+3.  Add **1.5 volume of ethanol (96%)** to the cleared lysate, and mix immediately by pipetting. Do not centrifuge. 
 4.  Transfer the sample (usually 650 μl), including any precipitate that may have formed, to an RNeasy spin column (pink) placed in a 2 ml collection tube (supplied).Close the lid gently, and centrifuge for 15 s at ≥8000 x g (≥10,000 rpm). Discard
 the flow-through.
 5. On column DNAse digestion (see Qiagen protocol) 
