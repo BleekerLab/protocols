@@ -5,10 +5,9 @@
 *  96% ethanol
 
 ## To do before starting
-Buffer RPE is supplied as a concentrate. Before using for the first time, add 4 volumes of ethanol (96–100%) as indicated on the bottle to obtain a working
-solution.
-β-Mercaptoethanol (β-ME) must be added to Buffer RLT or Buffer RLC before use. Add 10 μl β-ME per 1 ml Buffer RLT or Buffer RLC. Dispense in a fume hood and
-wear appropriate protective clothing. Buffer RLT or Buffer RLC containing β-ME can be stored at room temperature (15–25°C) for up to 1 month.
+Buffer RPE is supplied as a concentrate. Before using for the first time, add 4 volumes of ethanol (96–100%) as indicated on the bottle to obtain a working solution.
+
+β-Mercaptoethanol (β-ME) must be added to Buffer RLT or Buffer RLC before use. Add 10 μl β-ME per 1 ml Buffer RLT or Buffer RLC. Dispense in a fume hood and wear appropriate protective clothing. Buffer RLT or Buffer RLC containing β-ME can be stored at room temperature (15–25°C) for up to 1 month.
 
 ## Protocol (based on teh Qiagen Plant RNAeasy protocol)
 1.  Add 450 μl Buffer RLT or Buffer RLC (see “Important points before starting”) to a maximum of 100 mg tissue powder. Vortex vigorously
