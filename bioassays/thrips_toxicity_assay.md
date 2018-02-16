@@ -60,8 +60,9 @@ For a 12-well plate for one treatment condition (e.g. untreated)
 
 These 6 measurements should be saved as a tab-separated text file "results.txt" such as :
 
+
 | Dose | Status | Day |
-|------|--------|–––––|
+|------|-------|-----|
 | Untreated | 0 | 7 | 
 | Untreated | 0 | 6 | 
 | Untreated | 0 | 7 | 
@@ -82,15 +83,17 @@ _Remark_: in some cases, thrips end up in the same well. You can then record "2x
 
 Split the two observations like:
 
+
 | Dose | Status | Day |
-|------|--------|–––––|
-| Untreated | 0 | 7 | 
-|Untreated | 0 | 7
-  
+| ------------- | ------------- | ------ |
+| Untreated  | 0  | 7 |
+| Untreated  | 0  | 7 |
+
 Do this for all doses and compile all data in a "results.txt" file. An example can be seen in the Shiny app [online](http://genseq-h0.science.uva.nl/shiny/MarcGalland/thrips_survival/).
 
 # Data analysis
+## Shiny app
 To analyse the data, a dedicated Shiny app is available [here](http://genseq-h0.science.uva.nl/shiny/MarcGalland/thrips_survival/) and the underlying code can be found on [Github](https://github.com/BleekerLab/project20accessions/tree/7744041b68d24ae0892e46c089058fef328b9c44/scripts/shinyApps/thrips_survival)
 
-# Statistical analysis
+## Statistical analysis
 A cox-proportional hazards model is then fit on the survival data. 
