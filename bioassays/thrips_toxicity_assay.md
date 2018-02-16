@@ -34,13 +34,63 @@ Dry for 5s with nitrogen gas. Place one treated filter paper per well.
 7. Place in controlled environmental conditions (21°C,16/8 day night, 60%RH).
 
 # Measurements
-Recordings are then done every day __until all larvae die__
+Recordings are then done every day __until all larvae die__ or until a specified number of days (e.g. 7 days).
 
-The analysis is a survival analysis also called "time to death". Thus, we only record:
-*  __dead:__ dead thrips on day x: mark "1" in the corresponding the well coordinate and plate number
+## Data recoding
+The data will be analysed follwing a survival analysis also called "time to death". Thus, we only record:
+*  __death:__ dead thrips on day x: mark "1" in the corresponding the well coordinate and plate number
 *  __alive:__ live thrips on day x: mark "0" in the well coordinate and plate number
 *  __missing:__ if for some reasons you cannot find the thrips, mark "0" in the well coordinate and plate number
 
+To record the data, use a form where:
+  - __A__ stands for "Alive"
+  - __M__ stands for "Missing"
+  - __D__ stands for "Dead"
+
+For a 12-well plate for one treatment condition (e.g. untreated)
+
+| Well | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 | Day 6 | Day 7 |
+| -----|-------|-------|-------|------ |-------|-------|-------|
+| A1   | A | A | A | A | A | A | A |
+| A2   | A | A | A | A | A | M | M |
+| A3   | A | A | M | M | A | A | A |
+| A4   | A | A | D | D | A | A | A | 
+| B1   | A | A | A | D | D | D | D |
+| B2   | A | A | A | A | A | A | D | D |
+
+These 6 measurements should be saved as a tab-separated text file "results.txt" such as :
+
+| Dose | Status | Day |
+|------|--------|–––––|
+| Untreated | 0 | 7 | 
+| Untreated | 0 | 6 | 
+| Untreated | 0 | 7 | 
+| Untreated | 0 | 7 | 
+| Untreated | 1 | 4 | 
+| Untreated | 1 | 6 | 
+
+You can see that:
+  - __A__ that stands for "Alive" has been translated to "0" (death event occured)
+  - __M__ that stands for "Missing" has been translated to "0" (no death event occured)
+  - __D__ that stands for "Dead" has been translated to "1" (death event occured) 
+  
+_Remark_: in some cases, thrips end up in the same well. You can then record "2xA" if the two thrips are alive and 
+
+| Well | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 | Day 6 | Day 7 |
+| -----|-------|-------|-------|------ |-------|-------|-------|
+| A1  | A | A | 2xA | 2xA | 2xA | 2xA | 2xA |
+
+Split the two observations like:
+
+| Dose | Status | Day |
+|------|--------|–––––|
+| Untreated | 0 | 7 | 
+|Untreated | 0 | 7
+  
+Do this for all doses and compile all data in a "results.txt" file. An example can be seen in the Shiny app [online](http://genseq-h0.science.uva.nl/shiny/MarcGalland/thrips_survival/).
+
+# Data analysis
+To analyse the data, a dedicated Shiny app is available [here](http://genseq-h0.science.uva.nl/shiny/MarcGalland/thrips_survival/) and the underlying code can be found on [Github](https://github.com/BleekerLab/project20accessions/tree/7744041b68d24ae0892e46c089058fef328b9c44/scripts/shinyApps/thrips_survival)
 
 # Statistical analysis
 A cox-proportional hazards model is then fit on the survival data. 
