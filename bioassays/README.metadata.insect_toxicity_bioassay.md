@@ -3,17 +3,16 @@ This is a template for insect toxicity bioassays. It is heavily based on [NCBI P
 
 # Experiment
 ## Summary
-__Short description__: western flower thrips toxicity bioassay  
-__Goal__: determine the toxicity of 7-epizingiberene on western flower thrips  
-__Long description__: in this assay, we test the survival of western flower thrips on tomato leaf discs in the presence of increasing concentrations of 7-epizingiberene. 
-
+__Short description__: western flower thrips toxicity bioassay  \
+__Goal__: determine the toxicity of 7-epizingiberene on western flower thrips  \
+__Long description__: in this assay, we test the survival of western flower thrips on tomato leaf discs in the presence of increasing concentrations of 7-epizingiberene. \
 
 ## Experimental info
-__Researcher1__: Aleksandra Muras  
-__Researcher2__: Marc Galland  
-__Institution__: Swammerdam Institute for Life Sciences, University of Amsterdam  
-__Protocol__: https://github.com/BleekerLab/protocols/blob/4f981a9ee7ac6a29ff3fb8fb3753f0c91dad6f68/bioassays/thrips_toxicity_assay.md  
-__Duration__: 7 days  
+__Researcher1__: Aleksandra Muras  \
+__Researcher2__: Marc Galland  \
+__Institution__: Swammerdam Institute for Life Sciences, University of Amsterdam  \
+__Protocol__: https://github.com/BleekerLab/protocols/blob/4f981a9ee7ac6a29ff3fb8fb3753f0c91dad6f68/bioassays/thrips_toxicity_assay.md  \
+__Duration__: 7 days  \
 
 ## Biological material
 __Insect__:
@@ -26,11 +25,10 @@ __Plant__:
   - organ: leaf
 
 ## Chemical
-__Compound__: 7-epizingiberene [PubChem link](https://pubchem.ncbi.nlm.nih.gov/compound/21729595) 
-
+__Compound__: 7-epizingiberene [PubChem link](https://pubchem.ncbi.nlm.nih.gov/compound/21729595) \
 __Concentrations__:
-  - Untreated (water)
-  - Mock (Triton X-100 1.5% v/v)
+  - untreated (water) 
+  - mock (Triton X-100 1.5% v/v) 
   - 0.18µg
   - 1.8µg
   - 18µg.    
