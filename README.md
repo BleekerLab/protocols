@@ -6,3 +6,12 @@ More can be found on [Github itself](https://guides.github.com/features/masterin
 
 # Bioassays
 This folder contains protocols for insect bioassays (whitefly, western flower thrips).
+
+# Bioinformatics
+For now, it only contain the steps to perform a local_blast.
+
+# Microscopy
+Trichome staining etc.
+
+# molecular_biology
+Gene expression measurements (qPCR) etc.

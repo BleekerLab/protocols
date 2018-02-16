@@ -16,9 +16,10 @@ Start a bash session [more help here](http://blog.teamtreehouse.com/introduction
 The computer has to know where to find the blast program. What you need to do is to edit your "PATH" variable.When running a bash session:
 
 1.  Type in `nano ~/.bash_profile`
-2.  Add this line: `export PATH=$PATH:$HOME/ncbi-blast-2.2.29+/bin` 
+2.  Add these two lines: `PATH=$PATH:$HOME/ncbi-blast-2.2.29+/bin` and below `export PATH`
 __Important__: here the path points to your home directory. You can put the program anywhere on your computer as long as you know where you've put it.
-3.  check that it worked: `echo $PATH`
+3.  Type in `source ~/.bash_profile`
+4.  check that it worked: `echo $PATH`
 
 # Format the blast database
 You know need to create a blast database. It converts a FASTA file into a custom blast database format.
