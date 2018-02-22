@@ -67,7 +67,7 @@ These 6 measurements should be saved as a tab-separated text file "results.txt" 
 | Untreated | 0 | 6 | 
 | Untreated | 0 | 7 | 
 | Untreated | 0 | 7 | 
-| Untreated | 1 | 4 | 
+| Untreated | 1 | 3 | 
 | Untreated | 1 | 6 | 
 
 You can see that:
