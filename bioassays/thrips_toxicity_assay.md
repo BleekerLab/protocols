@@ -68,7 +68,7 @@ These 6 measurements should be saved as a tab-separated text file "results.txt" 
 | Untreated | 0 | 7 | 
 | Untreated | 0 | 7 | 
 | Untreated | 1 | 3 | 
-| Untreated | 1 | 6 | 
+| Untreated | 1 | 7 | 
 
 You can see that:
   - __A__ that stands for "Alive" has been translated to "0" (death event occured)
