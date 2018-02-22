@@ -80,12 +80,17 @@ _Remark_: in some cases, thrips end up in the same well. You can then record "2x
 | Well | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 | Day 6 | Day 7 |
 | -----|-------|-------|-------|------ |-------|-------|-------|
 | A1  | A | A | 2xA | 2xA | 2xA | 2xA | 2xA |
+| A1  | A | A | 2xA | 3xA | 4xA | 2xA | 2xA |
 
-Split the two observations like:
+For the first row, both individuals survived until the end. So record "0 7" twice.
+For the second row, you can only be sure for two thrips so only record the measurements for these. Record "0 7" twice. 
 
+Split the observations like:
 
 | Dose | Status | Day |
 | ------------- | ------------- | ------ |
+| Untreated  | 0  | 7 |
+| Untreated  | 0  | 7 |
 | Untreated  | 0  | 7 |
 | Untreated  | 0  | 7 |
 
