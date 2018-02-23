@@ -1,5 +1,5 @@
 # Introduction
-This is a template for insect toxicity bioassays. It is heavily based on [NCBI PubChem BioAssay Database](https://www.ncbi.nlm.nih.gov/books/NBK190601/) definitions and methods to describe bioassay experiments. 
+This is a template for the __README.md__ file that describes the experiment metadata. This file explains how the data from an experiment were generated. It should be present together with a "results.txt" file (containing the measurements) for all insect toxicity bioassays. This template is heavily based on [NCBI PubChem BioAssay Database](https://www.ncbi.nlm.nih.gov/books/NBK190601/) definitions and methods to describe bioassay experiments. 
 
 # Experiment
 ## Summary
