@@ -24,7 +24,7 @@ __Prepare a MES/KCl solution__
 __Staining solution__
 1.  1X MES/KCl solution supplemented with ~2µl of [Tween™ 20 Surfact-Amps™ Detergent Solution](https://www.thermofisher.com/order/catalog/product/85114?gclid=EAIaIQobChMI_ezFvo_r1gIVFTPTCh0Png7REAAYAiAAEgIZkPD_BwE&s_kwcid=AL!3652!3!100859398934!e!!g!!tween%2020&mkwid=sciAEE7Tu-dc_pcrid_100859398934_pkw_tween%2020_pmt_e_slid__dimid=&ef_id=V0vunQAAAKoG9rZ0:20171012124919:s) (Thermofisher, catalog number: 85114) 
 2.  In a small [round disposable petri dish](http://www.sigmaaldrich.com/catalog/product/aldrich/br452010?lang=en&region=NL) (L × W 55 mm × 16 mm, Sigma ), add 3µl of FM4-64 to 4ml of staining solution.
-3.  Let 10min in the dark at room temperature.
+3.  Let >2h in the dark at room temperature.
 4.  Wash in staining solution (without the FM4-64 dye)
 5.  Observe with the 514nm laser excitation.
 6.  At the confocal, use the HFT 458/514 dichroic mirror.
