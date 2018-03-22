@@ -23,15 +23,15 @@ The rule of thumb is to count 5 eggs/day/female thrips.
 2.  Take a 1.5cm diameter leaf disc from the accession of interest (leaf disk area = 1.77cm2)
 3.  Place the leaf disc in the well with the adaxial side ("upper side of the leaf") upwards. 
 4. Place one larvae per well onto each leaf disc.
-5.  Place a 10mm Whatman filter paper (ref. WHA10016508) onto a glass dish on ice and add 20µl of liquid to the filter paper. Depending on the condition:
-  *  Untreated: 20µl of water  
-  *  Mock: 5µl of 100% acetone mixed with 15µl of water
-  *  1µg: a volume necessary for 1µg of 2-tridecanone is dried under liquid nitrogen in ice. This dry extract is then resuspended in 5µl of acetone 100%. Once solubilized, it is mixed with 15µl of water.
-  *  10µg: a volume necessary for 1µg of 2-tridecanone is dried under liquid nitrogen in ice. This dry extract is then resuspended in 5µl of acetone 100%. Once solubilized, it is mixed with 15µl of water.
-  *   100µg: a volume necessary for 1µg of 2-tridecanone is dried under liquid nitrogen in ice. This dry extract is then resuspended in 5µl of acetone 100%. Once solubilized, it is mixed with 15µl of water.
-Dry for 5s with nitrogen gas. Place one treated filter paper per well.          
-6.  Seal with the sides of the 12-well plate with normal adhesive tape. That way, you can keep the transparent plastic lid and seal with regular tape.
-7. Place in controlled environmental conditions (21°C,16/8 day night, 60%RH).
+5.  Place a 10mm Whatman filter paper (ref. WHA10016508) onto a glass dish. Depending on the condition prepare:
+  *  Untreated: no treatment.  
+  *  Mock: 10µl of 100% acetone.
+  *  1µg: a volume necessary for 1µg of 2-tridecanone is dried under liquid nitrogen in ice. This dry extract is then resuspended in 10µl of acetone 100%.
+  *  10µg: a volume necessary for 10µg of 2-tridecanone is dried under liquid nitrogen in ice. This dry extract is then resuspended in 10µl of acetone 100%.
+  *   100µg: a volume necessary for 100µg of 2-tridecanone is dried under liquid nitrogen in ice. This dry extract is then resuspended in 10µl of acetone 100%.
+Apply prepared 10ul of a treatment on 10 mm Whatman disc and dry it for 5s with nitrogen gas. Apply 10 ul of water on the dried disc. Place one treated Whatman filter paper disc per well.          
+6.  Close the plate with a lid. Seal the sides of the plate with normal adhesive tape. Leave 2 vents on opposite corners of the plate.
+7. Place at room temperature (on a lab bench).
 
 # Measurements
 Recordings are then done every day __until all larvae die__ or until a specified number of days (e.g. 7 days).
