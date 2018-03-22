@@ -4,78 +4,75 @@
 This controlled bioassay is meant to assess the toxicity of a compound on adult whiteflies during 24h or 48h. 
 A purified SPE fraction can also be tested (e.g. hexane leaf wash fractions from Solid Phased Extraction). 
 
-## Setup for one cup
+## Assay Setup (example of 7-epizingiberene)
 
 *  Around 15 adult whiteflies per cup
 *  5 biological replicates per condition.
-*  5 conditions (untreated, mock, dose1, dose2, dose3)
+*  5 conditions (mock, dose1, dose2, dose3, dose4)
 
-Conditions (for one cup):
-*  Untreated (water)
-*  Mock (water)
-*  Compound1ug 2-tridecanone / cup
-*  10ug 2-tridecanone / cup
-*  100ug 2-tridecanone / cup
-5 biological replicates (15 whiteflies each) x 5 conditions = 25 cups
+Conditions :
+*  Mock (TX-100 0,1%)
+*  7-epizingiberene_1,8ug
+*  7-epizingiberene_18ug
+*  7-epizingiberene_35ug
+*  7-epizingiberene_88ug
 
-Per sample
-Untreated = 20ul water
-Mock = 15ul water + 5ul 100% ethanol
-1ug = 15ul water + 5ul 100% ethanol + 1ug dry extract
-10ug = 15ul water + 5ul 100% ethanol + 10ug dry extract
-100ug = 15ul water + 5ul 100% ethanol + 100ug dry extract
+5 biological replicates (5 cups) x 5 conditions = 25 cups
+15 whiteflies x 25 cups = 375 whiteflies
 
 
 ## Material needed
-* Analyser cups (reference Greiner-bio one 668102) pierced within the lid
+* Analyser cups (reference Greiner-bio one 668102); lid punched to make a hole of ~1cm diameter.
 * Parafilm
 * 15 whiteflies (biotype Q) per cup (keep them in ice for 1h to get them sleepy)
 * 1 leaf punch of 1.5cm diameter per cup from the Moneymaker tomato cultivar.
-* 30mm whatman filter paper 
+* 30mm Whatman filter paper disc
 * 2ml safe-lock eppendorf tube
 * Stock solutions of the compound/fraction to be tested. 
 
-## Protocol:
-1) Add the necessary volume for each quantity of compound/fraction in a 2ml safe-lock Eppendorf tube.
-2) Dry under nitrogen and in ice. You get a dry extract of the compound/fraction
-3) Resuspend the 2-tridecanone dry extract in 5ul of 100% ethanol 
-4) Add 15ul of MilliQ water. Mix well. 
-5) Apply 20ul per leaf punch 
-6) Place 15 “sleepy” whiteflies in each cup. Place the pierced lid, the leaf coated with the product and a piece of parafilm to hold it in place. 
-7) Measure after 24h or 48h in the whitefly growth cabinet
+## Protocol (per leaf disc):
+1) Add a volume neccessary for given amount of the compound (hexane solution) in a 1,5ml safe-lock Eppendorf tube.
+2) Dry under nitrogen and in ice.
+3) Resuspend extract in 20ul of TX-100 0,1%.
+4) Apply 20ul onto abaxial (bottom) side of a 1,5cm leaf disc. 
+5) Let dry for ~2h at room temperature on a lab bench.
+6) Place 15 “sleepy” whiteflies in a cup. Place the leaf disc abaxial (treated) side down onto punched lid, so that the hole is covered. Place wet 30mm Whatman filter paper disc on top of the leaf disc. Seal the lid on top of the cup with parafilm.
+7) Measure survival after 48h incubation in the whitefly growth cabinet.
 
 ## Measurement of whitefly mortality
-1) Place the cup with the whiteflies in ice for ~1h. 
-2) Count the number of dead and alive flies per condition and biological replicates. 
+1) Count the number of dead and alive flies per condition and biological replicates. 
 
 The final table should follow this format for further analysis with R. 
 
 cup | dose | alive | dead
 -------|------|-------|-----
-untreated-1 | untreated | 10 | 3
-untreated-2 | untreated | 11 | 4
-untreated-3 | untreated | 9 | 4
-untreated-4 | untreated | 12 | 3
-untreated-5 | untreated | 15 | 0
 mock-1 | mock | 10 | 3
 mock-2 | mock | 11 | 3
 mock-3 | mock | 9 | 4
 mock-4 | mock | 10 | 3
 mock-5 | mock | 10 | 5
-1µg-1 | 1µg | 8 | 6
-1µg-2 | 1µg | 6 | 9
-1µg-3 | 1µg | 7 | 9
-1µg-4 | 1µg | 4 | 11
-1µg-5 | 1µg | 10 | 4
-10µg-1 | 10µg | 9 | 6
-10ug-1 | 10ug |	7	| 3
-10ug-2 | 10ug | 14 | 10
-10ug-3 | 10ug |	11 | 3
-10ug-4 | 10ug |	3 | 10
-100ug-1 | 100ug |	8 |	4
-100ug-2 | 100ug |	7 | 9
-100ug-3 | 100ug | 6 | 7
-100ug-4 | 100ug | 12 | 7
+1,8µg-1 | 1,8µg | 8 | 6
+1,8µg-2 | 1,8µg | 6 | 9
+1,8µg-3 | 1,8µg | 7 | 9
+1,8µg-4 | 1,8µg | 4 | 11
+1,8µg-5 | 1,8µg | 10 | 4
+18µg-1 | 18µg | 9 | 6
+18µg-1 | 18ug |	7	| 3
+18µg-2 | 18ug | 14 | 10
+18µg-3 | 18ug |	11 | 3
+18µg-4 | 18ug |	3 | 10
+18µg-5 | 18ug |	4 | 10
+35µg-1 | 35ug |	8 |	4
+35µg-2 | 35ug |	7 | 9
+35µg-3 | 35ug | 6 | 7
+35µg-4 | 35ug | 12 | 7
+35µg-5 | 35ug | 12 | 6
+88ug-1 | 100ug |	8 |	4
+88ug-2 | 10ug | 14 | 10
+88ug-3 | 10ug |	11 | 3
+88ug-4 | 10ug |	3 | 10
+88ug-5 | 100ug |	7 | 9
+
 
 
 
