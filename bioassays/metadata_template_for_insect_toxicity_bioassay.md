@@ -21,8 +21,10 @@ __Insect__:
 
 __Plant__:
   - species: Solanum lycopersicum taxonomy [ID 4081](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=4081&lvl=3&lin=f&keep=1&srchmode=1&unlock)
-  - genotype: Moneymaker
+  - genotype: Moneymaker LYC3830
+  - donor: Enza Zaden B.V.
   - organ: leaf
+  
 
 ## Chemical
 __Compound__: 7-epizingiberene [PubChem link](https://pubchem.ncbi.nlm.nih.gov/compound/21729595) \
