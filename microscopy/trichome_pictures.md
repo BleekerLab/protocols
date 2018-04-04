@@ -14,12 +14,15 @@ This protocol is composed of two parts:
 5. Take a piece of stem and place it horizontally (---) under the microscope. . 
 6. Zoom out completely. 
 7. Zoom in at 10,000x on the side of the branch ("labeled 10.0 on the microscope).
-8. Focus on a few trichomes. Get them as much as possible in focus. This is going to be your first picture (foreground). 
+8. Focus on a few trichomes. Get them as much as possible in focus. This is going to be your first picture (foreground).   
 9. Zoom in about a few trichome layers away. There should not be too much overlap between the different trichomes (otherwise they get merged together during the stacking phase). This will be your background. 
 10. Zoom out to go back to the foreground (= your first picture). 
-11. Depending on the number of trichomes in-between your foreground and background, you need to take 
+11. Depending on the number of trichomes in-between your foreground and background, you need to take a variable number of pictures.  
     - If trichome density is high, then trichomes will overlap during the stacking meaning that you need to take more pictures (~30) and reduce the distance between your foreground and background.  
     - If trichome density is low, then trichomes won't overlap and you need less pictures (~10)
 
+<img src="../microscopy/horizontal_branch.jpg" width="300"> Horizontal stem position  
+<img src="../microscopy/foreground-small.jpg" width="300">  Foreground (step 8)  
+<img src="../microscopy/background-small.jpg" width="300">  Background (step 9)
 
 # Second part: alignment of pictures using Photoshop
