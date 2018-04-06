@@ -1,4 +1,9 @@
-# Protocol to archive sequencing datasets to SURF Archive
+# Protocol to archive datasets 
+If you wonder how to archive sequencing or other datasets, here's a couple of way to do it.
+
+
+
+# At SURF Archive
 You should dispose of a user name and a password granted by SURFsara for their [Data Archive](https://www.surf.nl/en/services-and-products/data-archive/index.html) service.   
 The datasets will be archived on a Tape Archive. 
 
@@ -14,4 +19,11 @@ Note2: files should be zipped in one single archive (``files.gzip`` or ``files.t
 
 For instance, for me, a typical command would be ``scp myfastqfiles.tar.gz mgalland@archive.surfsara.nl:~/project1/data/``. Your password would be requested after pressing enter. 
 
-## Option 2: using a FTP client 
+## Option 2: using a FTP client such as FileZilla
+
+# Using the SILS Tape Archiver
+
+# At Zenodo 
+Multiple datasets can be uploaded to [Zenodo](https://zenodo.org/).Each dataset must be <50Gb but more can be requested.  
+Zip your file one by one and upload them. You will have to describe the experiment info: collectively these are called __metadata__ or "data about the data" which help to make sense of your experiment afterwards.  
+More info [here](http://help.zenodo.org/)
