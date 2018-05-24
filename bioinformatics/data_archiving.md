@@ -47,4 +47,4 @@ Zip your file one by one and upload them. You will have to describe the experime
 More info [here](http://help.zenodo.org/)
 
 # EBI European Nucleotide Archive (ENA)
-The standard for genomic datasets.
+The standard for genomic datasets. Please refer to the related [protocol](https://github.com/BleekerLab/protocols/blob/master/bioinformatics/European_Nucleotide_Archive.md).
