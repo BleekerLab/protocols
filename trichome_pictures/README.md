@@ -21,9 +21,9 @@ This protocol is composed of two parts:
     - If trichome density is high, then trichomes will overlap during the stacking meaning that you need to take more pictures (~30) and reduce the distance between your foreground and background.  
     - If trichome density is low, then trichomes won't overlap and you need less pictures (~10)
 
-<img src="../microscopy/horizontal_branch.jpg" width="300"> Horizontal stem position  
-<img src="../microscopy/foreground-small.jpg" width="300">  Foreground (step 8)  
-<img src="../microscopy/background-small.jpg" width="300">  Background (step 9)
+<img src="./horizontal_branch.jpg" width="300"> Horizontal stem position  
+<img src="./foreground-small.jpg" width="300">  Foreground (step 8)  
+<img src="./background-small.jpg" width="300">  Background (step 9)
 
 # Second part: alignment of pictures using Photoshop
 See the [trichome layer photography](./trichome_layer_photography) protocol made by Maurice Heilijgers (August 2018).
