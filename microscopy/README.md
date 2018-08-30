@@ -26,3 +26,4 @@ This protocol is composed of two parts:
 <img src="../microscopy/background-small.jpg" width="300">  Background (step 9)
 
 # Second part: alignment of pictures using Photoshop
+See the [trichome layer photography](./trichome_layer_photography) protocol made by Maurice Heilijgers (August 2018).
