@@ -6,13 +6,24 @@ This little guide will help you out in your journey by guiding you through a ser
 
 
 
-
-
-
 # Jupyter notebooks
 
+## Introduction
 From the [official documentation](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html):
 > Notebook documents (or “notebooks”, all lower case) are documents produced by the Jupyter Notebook App, which contain both computer code (e.g. python) and rich text elements (paragraph, equations, figures, links, etc…). Notebook documents are both human-readable documents containing the analysis description and the results (figures, tables, etc..) as well as executable documents which can be run to perform data analysis.
 
 But it is not only static! It also allows you to run code:
 > The Jupyter Notebook App is a server-client application that allows editing and running notebook documents via a web browser. The Jupyter Notebook App can be executed on a local desktop requiring no internet access (as described in this document) or can be installed on a remote server and accessed through the internet.
+
+## Some examples of notebooks
+* [Simple line plots](https://nbviewer.jupyter.org/github/ScienceParkStudyGroup/studyGroup/blob/gh-pages/pythonDataScienceHandbook/04.01-Simple-Line-Plots.ipynb)
+* [Simple scatterplots](https://nbviewer.jupyter.org/github/ScienceParkStudyGroup/studyGroup/blob/gh-pages/pythonDataScienceHandbook/04.02-Simple-Scatter-Plots.ipynb)
+
+# Getting started
+
+## Installing the Anaconda distribution
+Navigate to the [Anaconda website](https://www.anaconda.com/distribution/) and download the installer for Windows, Mac OS X or Linux.  
+Then, follow the instructions for installation.
+
+## Starting a Jupyter notebook
+Start the Anaconda Navigator (these 
