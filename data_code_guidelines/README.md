@@ -1,8 +1,18 @@
-# Guidelines for data & code - SILS/Plant Physiology
-When you start working in one of the groups of Plant Physiology, it is very likely that you'll encounter issues and challenges
-related to data management and programming.   
+# Good practices in scientific programming - SILS/Plant Physiology
+Welcome to this practical guide to data analysis and programming for the Green Life Scientist (but not only);  
+:green_apple: :cherries:	:watermelon: :strawberry:	🍑 :peach:	🍈 :melon:
+🍌 :banana:	🍐 :pear:	🍍 :pineapple:
+🍠 :sweet_potato:	🍆 :eggplant:	🍅 :tomato:
+
+## Motivation
+When you start working in one of the Green Life Sciences groups of Plant Physiology, it is very likely that you'll encounter issues and challenges related to data analysis and programming. Biology can now also be done with a :computer: nowadays.   
+
+It is important then to embrace good practices from the start. Usually, one tends to think that a "magical" :crystal_ball: solution will happen by itself and that someone will sort everything out for you. Well, usually, that person is you because you know your experimental data better than anyone else!
 
 This little guide will help you out in your journey by guiding you through a series of good practices. 
+
+## Summary of what you need to do
+1. Install :snake: a software (Anaconda) Anaconda is a free and open-source[5] distribution of the Python and R programming languages for scientific computing (data science, machine learning applications, large-scale data processing, predictive analytics, etc.), that aims to simplify package management and deployment. 
 
 
 
