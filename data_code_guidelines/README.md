@@ -12,7 +12,9 @@ It is important then to embrace good practices from the start. Usually, one tend
 This little guide will help you out in your journey by guiding you through a series of good practices. 
 
 ## Summary of what you need to do
-1. Install :snake: a software (Anaconda) Anaconda is a free and open-source[5] distribution of the Python and R programming languages for scientific computing (data science, machine learning applications, large-scale data processing, predictive analytics, etc.), that aims to simplify package management and deployment. 
+1. Install a software called *Anaconda* that contains the Python and R programming languages for scientific computing (data science, machine learning applications, large-scale data processing, predictive analytics, etc..).
+2. Familiarize yourself with Jupyter notebooks. Open it using the anaconda navigator. 
+2. Create a Github account so that your code will be versioned controlled and hosted online. Create a repository (=folder) on Github that will host your next article or coding project.
 
 
 
