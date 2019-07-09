@@ -12,5 +12,7 @@ To access it:
 3. Enter your login and password.
 4. You can now upload your desired files to iRODS through .
 
-## How to access the YODA portal
+## How to access the YODA portal 
+What for? To add/edit metadata and publish to the vault and to the outside world.  
+
 Link to the YODA instance of the UvA: https://uva-yoda.irodspoc-sara.surf-hosted.nl/
