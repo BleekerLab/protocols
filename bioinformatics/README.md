@@ -17,4 +17,5 @@ Available resources:
 
 ## Online Shiny applications
 
-Gene expression visualisation: mRNA-Seq
+Gene expression visualisation (mRNA-Seq, 20 wild genotypes).    
+https://bleekerlab.shinyapps.io/rnaseqvis/
