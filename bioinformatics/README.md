@@ -5,7 +5,7 @@ Here is a list of resources we developed during the course of our work of throug
 This is the "supercomputer" that you can use to perform heavy duty jobs such as read alignment to a genome etc. 
 It is composed of a headnode (*h0*) and four computing nodes (*cn00* to *cn04*).  
 
-It is nicknamed **genseq** and is maintained by the team of Timo Breit. Please contact Wim de Leeuw (system administrator) to get access. 
+It is nicknamed **genseq** and is maintained by the team of Timo Breit. Please contact [Wim de Leeuw](https://www.uva.nl/profiel/l/e/w.c.deleeuw/w.c.deleeuw.html) (system administrator) to get access. 
 
 ## Accessing genseq
 There is no graphical user interface to genseq. Instead, you will need to use the Shell.   
