@@ -37,16 +37,19 @@ You can make subfolders at your convenience. Metadata are managed at the folder 
 ## How to add metadata on your datasets (YODA website)
 To do so, you'll need to access the YODA online portal through a web browser. You will be able to add or edit metadata related to your dataset. This will allow you to publish internally to the vault so that your datasets become read-only (cannot be modified anymore).
 
+Link to the YODA instance of the UvA: https://uva-yoda.irodspoc-sara.surf-hosted.nl/    
+
+Here's how the portal looks like:  
+
 ![YODA portal login](../img/yoda-portal-login.png)
 
-You'll see a research 
+### YODA research
+Please refer to the YODA user guide: https://yoda.sites.uu.nl/home/introduction-to-yoda-2/yoda-user-interfaces/research-module/
 
 ### Deposition of a data package in the Vault
 This workflow makes sure that your datasets and their associated metadata moves to the safe part of the vault. It is only visible to users with permissions. 
 
 ![Deposit in the Vault](../img/vault-publication.png)
-
-Link to the YODA instance of the UvA: https://uva-yoda.irodspoc-sara.surf-hosted.nl/
 
 ### Publishing a data package
 This allows you to publish a collection of datasets and their metadata to the outside world.
