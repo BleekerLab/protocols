@@ -10,7 +10,18 @@ To access it:
 1. On Mac OS X, open the `Finder`, then select `Go` then `Connect to server`.
 2. Enter the following link (Davrods interface of iRODS/YODA): `https://uva-data.irodspoc-sara.surf-hosted.nl` 
 3. Enter your login and password.
-4. You can now upload your desired files to iRODS through .
+4. You can now upload your desired files to iRODS through the DavRODS interface (appears as a volume on your machine).
+
+Here are a few screenshots to guide you:
+**Step1**
+![Step 1](../../img/connect-to-server.png)
+
+**step2**
+![Step 2](../../img/connect-to-server-2.png)
+
+**step3**!
+[Step 3](../../img/davrods-1.png)
+
 
 ## How to access the YODA portal 
 What for? To add/edit metadata and publish to the vault and to the outside world.  
