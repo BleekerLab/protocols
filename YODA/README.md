@@ -21,7 +21,13 @@ Here are a few screenshots to guide you:
 ![Step 3](../img/davrods-1.png)
 
 
-## How to access the YODA portal 
+## How to add metadata on your datasets 
+To do so, you'll need to access the YODA online portal.
+
 What for? To add/edit metadata and publish to the vault and to the outside world.  
 
 Link to the YODA instance of the UvA: https://uva-yoda.irodspoc-sara.surf-hosted.nl/
+
+## Reference
+[Smeele Ton & Westerhof Lazlo, 2018. Using iRODS to manage, share and publish research
+data: Yoda. Proceedings of the iRODS User Group Meeting 2018](./2018-Yoda.pdf). A paper from the YODA project lead Ton Smeele  director.
