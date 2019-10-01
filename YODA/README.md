@@ -11,15 +11,14 @@ To mount the YODA system on your local machine:
 3. Enter your login and password.
 4. You can now upload your desired files to iRODS through the DavRODS interface (appears as a volume on your machine).
 
-Here are a few screenshots to guide you:
-**Step1**  
+Here are a few screenshots to guide you:  
+
 ![Step 1](../img/connect-to-server.png)
 
-**step2**  
+
 ![Step 2](../img/connect-to-server-2.png)
 
-**step3**!  
-[Step 3](../img/davrods-1.png)
+![Step 3](../img/davrods-1.png)
 
 
 ## How to access the YODA portal 
