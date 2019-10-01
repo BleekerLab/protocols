@@ -9,7 +9,11 @@ To learn more about YODA, please go to: https://yoda.sites.uu.nl/home/introducti
 2. [How to add metadata on your datasets (YODA website)](#how-to-add-metadata-on-your-datasets-yoda-website)
 3. [Reference](#reference)
 
-## How to upload files to YODA (local mount)
+# Important links
+YODA user guide (Utrecht University): https://yoda.sites.uu.nl/  
+YODA instance of the UvA (pilot phase): https://uva-yoda.irodspoc-sara.surf-hosted.nl/ 
+
+# How to upload files to YODA (local mount)
 
 ### Mounting YODA through Davrods on your machine.
 To mount the YODA system on your local machine:
@@ -34,7 +38,7 @@ You can make subfolders at your convenience. Metadata are managed at the folder 
 ![Folder organisation](../img/folder-structure.png)
 
 
-## How to add metadata on your datasets (YODA website)
+# How to add metadata on your datasets (YODA website)
 To do so, you'll need to access the YODA online portal through a web browser. You will be able to add or edit metadata related to your dataset. This will allow you to publish internally to the vault so that your datasets become read-only (cannot be modified anymore).
 
 Link to the YODA instance of the UvA: https://uva-yoda.irodspoc-sara.surf-hosted.nl/    
@@ -56,6 +60,6 @@ This allows you to publish a collection of datasets and their metadata to the ou
 
 ![Publish your data package](../img/publish-data.png)
 
-## Reference
+# Reference
 [Smeele Ton & Westerhof Lazlo, 2018. Using iRODS to manage, share and publish research
 data: Yoda. Proceedings of the iRODS User Group Meeting 2018](./2018-Yoda.pdf). A paper from the YODA project lead Ton Smeele  director.
