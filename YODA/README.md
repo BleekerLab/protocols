@@ -7,7 +7,7 @@ To learn more about YODA, please go to: https://yoda.sites.uu.nl/home/introducti
 ## Table of contents
 1. [How to upload files to YODA (local mount)](#how-to-upload-files-to-yoda-local-mount)
 2. [How to add metadata on your datasets (YODA website)](#how-to-add-metadata-on-your-datasets-yoda-website)
-
+3. [Reference](#reference)
 
 ## How to upload files to YODA (local mount)
 
