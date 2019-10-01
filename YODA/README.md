@@ -4,7 +4,9 @@ to manage data and metadata that are handled via the [iRODS system](https://irod
 
 To learn more about YODA, please go to: https://yoda.sites.uu.nl/home/introduction-to-yoda-2/
 
-## How to upload files to YODA
+## How to upload files to YODA 
+
+### Mounting YODA through Davrods on your machine.
 To mount the YODA system on your local machine:
 1. On Mac OS X, open the `Finder`, then select `Go` then `Connect to server`.
 2. Enter the following link (Davrods interface of iRODS/YODA): `https://uva-data.irodspoc-sara.surf-hosted.nl` 
@@ -15,18 +17,32 @@ Here are a few screenshots to guide you:
 
 ![Step 1](../img/connect-to-server.png)
 
-
 ![Step 2](../img/connect-to-server-2.png)
 
 ![Step 3](../img/davrods-1.png)
 
+### Organisation of the folders
+Whenever you create a user group, this will create two folders: one prefixed with "research-" and one prefixed with "vault-".
 
-## How to add metadata on your datasets 
-To do so, you'll need to access the YODA online portal.
+You can make subfolders at your convenience. Metadata are managed at the folder level so every *data collection* is made up of one folder containing datasets + the associated metadata. 
 
-What for? To add/edit metadata and publish to the vault and to the outside world.  
+![Folder organisation](../img/folder-structure.png)
+
+
+## How to add metadata on your datasets (YODA website)
+To do so, you'll need to access the YODA online portal through a web browser. You will be able to add or edit metadata related to your dataset. This will allow you to publish internally to the vault so that your datasets become read-only (cannot be modified anymore).
+
+### Deposition of a data package in the Vault
+This workflow makes sure that your datasets and their associated metadata moves to the safe part of the vault. It is only visible to users with permissions. 
+
+![Deposit in the Vault](../img/vault-publication.png)
 
 Link to the YODA instance of the UvA: https://uva-yoda.irodspoc-sara.surf-hosted.nl/
+
+### Publishing a data package
+This allows you to publish a collection of datasets and their metadata to the outside world.
+
+![Publish your data package](../img/publish-data.png)
 
 ## Reference
 [Smeele Ton & Westerhof Lazlo, 2018. Using iRODS to manage, share and publish research
