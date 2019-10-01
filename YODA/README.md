@@ -4,7 +4,12 @@ to manage data and metadata that are handled via the [iRODS system](https://irod
 
 To learn more about YODA, please go to: https://yoda.sites.uu.nl/home/introduction-to-yoda-2/
 
-## How to upload files to YODA 
+## Table of contents
+1. [How to upload files to YODA (local mount)](#how-to-upload-files-to-yoda-local-mount)
+2. [How to add metadata on your datasets (YODA website)](#how-to-add-metadata-on-your-datasets-yoda-website)
+
+
+## How to upload files to YODA (local mount)
 
 ### Mounting YODA through Davrods on your machine.
 To mount the YODA system on your local machine:
@@ -31,6 +36,10 @@ You can make subfolders at your convenience. Metadata are managed at the folder 
 
 ## How to add metadata on your datasets (YODA website)
 To do so, you'll need to access the YODA online portal through a web browser. You will be able to add or edit metadata related to your dataset. This will allow you to publish internally to the vault so that your datasets become read-only (cannot be modified anymore).
+
+![YODA portal login](../img/yoda-portal-login.png)
+
+You'll see a research 
 
 ### Deposition of a data package in the Vault
 This workflow makes sure that your datasets and their associated metadata moves to the safe part of the vault. It is only visible to users with permissions. 
