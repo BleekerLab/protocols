@@ -1,4 +1,18 @@
-- [Research and personal data security ](#research-and-personal-data-security-)
+# Research and personal data security 
+:lock: :lock: :lock: :lock: :lock: :lock: :lock: :lock: :lock: :lock: :lock: :lock: :computer: :lock: :lock: :lock: :lock: :lock: :lock: :lock: :lock: :lock: :lock: :lock: :lock:
+
+This little document is based on what I learnt when my laptop got stolen at the University. At the time I got: 
+* :fearful: fearful "Oh, what did I exactly had on this laptop?".
+* :angry: angry "What I'd like to do to the thief if I had him/her in front of me right now...". 
+* :cry: sad "I am supposed to help others to take care of their data and I cannot take care of mine properly".
+* :weary: weary "The only time that I don't lock up this laptop and it gets stolen". 
+
+To get something positive out of this negative experience, I shaped this little tutorial on what can be done to improve data security and protection. I hope it is simple enough and useful for researchers to reckon why protecting your personal and research data is important. And help you to protect them with the maximum security.
+
+This document will list: 
+1. Why it is important to protect your research and personal data stored on your local machine (laptop or desk computer). 
+2. What you can do to improve your data security.
+
 - [Why is it important to protect your data? ](#why-is-it-important-to-protect-your-data-)
   - [It protects you](#it-protects-you)
   - [It protects others](#it-protects-others)
@@ -17,22 +31,6 @@
   - [Document authors](#document-authors)
   - [Two-factor authentification](#two-factor-authentification)
   - [Data encryption](#data-encryption)
-
-
-# Research and personal data security 
-:lock: :lock: :lock: :lock: :lock: :lock: :lock: :lock: :lock: :lock: :lock: :lock: :computer: :lock: :lock: :lock: :lock: :lock: :lock: :lock: :lock: :lock: :lock: :lock: :lock:
-
-This little document is based on what I learnt when my laptop got stolen at the University. At the time I got: 
-* :fearful: fearful "Oh, what did I exactly had on this laptop?".
-* :angry: angry "What I'd like to do to the thief if I had him/her in front of me right now...". 
-* :cry: sad "I am supposed to help others to take care of their data and I cannot take care of mine properly".
-* :weary: weary "The only time that I don't lock up this laptop and it gets stolen". 
-
-To get something positive out of this negative experience, I shaped this little tutorial on what can be done to improve data security and protection. I hope it is simple enough and useful for researchers to reckon why protecting your personal and research data is important. And help you to protect them with the maximum security.
-
-This document will list: 
-1. Why it is important to protect your research and personal data stored on your local machine (laptop or desk computer). 
-2. What you can do to improve your data security.
 
 
 # Why is it important to protect your data? 
