@@ -1,11 +1,15 @@
-# How to protect your research and personal data at the University
-This little document is based on what I learnt when my laptop got stolen at the University. 
+# How to protect your research and personal data 
+:lock: :lock: :lock: :lock: :lock: :lock: :computer: :lock: :lock: :lock: :lock: :lock: :lock:
+
+This little document is based on what I learnt when my laptop got stolen at the University. I hope it is useful for researchers to reckon why protecting your personal and research data is important. And help you to protect them with the maximum security.
 
 This document will list: 
 1. Why it is important to protect your research and personal data stored on your local machine (laptop or desk computer). 
 2. What you can do to improve your data security.
 
 # Why is it important to protect your data? 
+
+Personal data: European GDPR. Can contain bank account 
 
 # What can you do to protect your data? 
 
@@ -33,7 +37,7 @@ They are opened from Monday to Friday from 8.00 to 18.00.
 
 
 ## File a police complaint 
-:police_car: :police_car: :police_car: :police_car:
+:police_car: :police_car: :police_car: :police_car: 
 1. Go online to the [official police website](https://www.politie.nl/) 
 2. Select ["aangifte-of-melding-doen"](https://www.politie.nl/aangifte-of-melding-doen).   
 3. Go to "diefstal zakkenrollerij of inbraak" (theft, pickpocketting, burglary). 
@@ -42,5 +46,10 @@ They are opened from Monday to Friday from 8.00 to 18.00.
 
 You will be asked a few questions.
 
-Your complaint will be processed (mine took a few hours) and you will then receive the police report ("aangifte") that you have to send to the ICTS service desk and take to the SP904 security desk to get access to the :video_camera: video footage. 
+Your complaint will be processed (mine took a few hours). When you receive the police report ("aangifte"), please send it or bring it to:
+1. [the ICTS service desk](#report-to-the-university-ict-helpdesk). 
+2. The SP904 security desk. This will give you access to the :video_camera: video footage and perhaps help you to spot who did what. 
+
+# References
+* The University ICT Services [Form for reporting a data breach (mobile devices)](UvA-AUAS_mandatory_data_breach_notification.pdf)  
 
