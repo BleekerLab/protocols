@@ -14,6 +14,8 @@ Personal data: European GDPR. Can contain bank account
 # What can you do to protect your data? 
 
 ## Encrypt your hard drive
+Data encryption makes it hard or almost impossible for someone unauthorized to access your personal/research data. It relies on different protocols.
+
 
 # What to do in case your computer gets stolen
 
@@ -31,9 +33,9 @@ Complete information on Apple Support: https://support.apple.com/en-us/HT204756
 ## Report to the University ICT Helpdesk
 Preferably phone them so they can guide you through the procedure.
 
-Email: servicedesk-icts@uva.nl
-T: +31 (0)20 525 1402
-They are opened from Monday to Friday from 8.00 to 18.00.
+- :email: Email: servicedesk-icts@uva.nl
+- :phone: Phone: +31 (0)20 525 1402
+- :clock8: - : clock6: They are opened from Monday to Friday from 8.00 to 18.00.
 
 
 ## File a police complaint 
@@ -44,12 +46,15 @@ They are opened from Monday to Friday from 8.00 to 18.00.
 4. Select "Er is iets anders gestolen".
 5. You will then need to click on "Mijn Politie" and follow the procedure with your [DigiD](https://www.digid.nl/). 
 
-You will be asked a few questions.
+You will be asked a few questions.  
 
 Your complaint will be processed (mine took a few hours). When you receive the police report ("aangifte"), please send it or bring it to:
-1. <a href="#report-to-the-university-ict-helpdesk">the ICTS service desk</a>. 
+1. [The ICTS Services helpdesk](#report-to-the-university-ict-helpdesk).
 2. The SP904 security desk. This will give you access to the :video_camera: video footage and perhaps help you to spot who did what. 
 
 # References
+
+## Data encryption
+* https://naturalnewsblogs.com/how-to-encrypt-your-hard-drive-and-why-you-should/
 * The University ICT Services [Form for reporting a data breach (mobile devices)](UvA-AUAS_mandatory_data_breach_notification.pdf)  
 
