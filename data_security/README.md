@@ -1,4 +1,4 @@
-# How to protect your research and personal data 
+# Research and personal data security 
 :lock: :lock: :lock: :lock: :lock: :lock: :lock: :lock: :lock: :lock: :lock: :lock: :computer: :lock: :lock: :lock: :lock: :lock: :lock: :lock: :lock: :lock: :lock: :lock: :lock:
 
 This little document is based on what I learnt when my laptop got stolen at the University. At the time I got: 
@@ -15,9 +15,34 @@ This document will list:
 
 # Why is it important to protect your data? 
 
-Personal data: European GDPR. Can contain bank account 
+## It protects you
+You might have important information on your personal or work laptop / desk computer. Think whether you have passwords being stored in plain text files or saved in your web browser. Certainly, you have research data that you would like to preserve as well.  
+
+## It protects others
+You might also have contact information (phone, email, visiting address) of people you work with, family relatives or friends of yours. Ensuring the maximum level of protection will also protect them.
+
+## It is legally required
+As stated in the [Form for reporting a data breach (mobile devices)](UvA-AUAS_mandatory_data_breach_notification.pdf):  
+> Since 25 May 2018, the (European) General Data Protection Regulation (GDPR) is in effect. Included in the GDPR is an obligation to report data breaches. This obligation requires the UvA/AUAS to report data breaches to the Dutch Data Protection Authority (DPA) within 72 hours. 
+
+## It protects your work
+Although you might think that your research data are valuable to you and your group, some people might think the contrary...
 
 # What can you do to protect your data? 
+
+## Enable 2-factor authentification 
+Whenever possible, make sure you activate __2-factor authentification (2FA)__.   
+
+2-factor authentification (2FA) adds an extra layer of security to any account on top of your password. You will have to verify your identity through another measure:
+* Copy-pasting a code that you have received through an email address or an SMS on your phone. 
+* Saying "Yes, it is me" when prompted on your smartphone when you log in a website.
+* On your smartphone, starting an app such as [Google Authentificator](https://google-authenticator.com/) that issues a code once you try to log in a website.  
+
+A nice feature is that, if you connect from another location or machine, you will automatically be able to grant access or not.   
+
+You can check [here](https://twofactorauth.org/) whether your cloud provider or other website provides 2FA.   
+Here is a nice guide to understand and for this: https://www.fidelity.com/security/how-two-factor-authentication-works
+
 
 ## Encrypt your hard drive
 Data encryption makes it hard or almost impossible for someone unauthorized to access your personal/research data. If you lose your laptop/external hard drive/desk machine or if it gets stolen, it will protect your files on this device. 
@@ -77,7 +102,15 @@ Your complaint will be processed (mine took a few hours). When you receive the p
 
 # References
 
+## Document authors
+__Marc Galland__: www.mgalland.info
+__Petra Bleeker__: P.M.Bleeker at uva.nl
+
+## Two-factor authentification
+* An extensive list of websites that support 2-factor authentification: https://twofactorauth.org/
+
 ## Data encryption
 * https://naturalnewsblogs.com/how-to-encrypt-your-hard-drive-and-why-you-should/
 * The University ICT Services [Form for reporting a data breach (mobile devices)](UvA-AUAS_mandatory_data_breach_notification.pdf)  
+
 
