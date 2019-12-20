@@ -47,7 +47,7 @@ They are opened from Monday to Friday from 8.00 to 18.00.
 You will be asked a few questions.
 
 Your complaint will be processed (mine took a few hours). When you receive the police report ("aangifte"), please send it or bring it to:
-1. [the ICTS service desk](#report-to-the-university-ict-helpdesk). 
+1. <a href="#report-to-the-university-ict-helpdesk">the ICTS service desk</a>. 
 2. The SP904 security desk. This will give you access to the :video_camera: video footage and perhaps help you to spot who did what. 
 
 # References
