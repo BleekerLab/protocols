@@ -14,7 +14,13 @@ Personal data: European GDPR. Can contain bank account
 # What can you do to protect your data? 
 
 ## Encrypt your hard drive
-Data encryption makes it hard or almost impossible for someone unauthorized to access your personal/research data. It relies on different protocols.
+Data encryption makes it hard or almost impossible for someone unauthorized to access your personal/research data. If you lose your laptop/external hard drive/desk machine or if it gets stolen, it will protect your files on this device. 
+
+You could either encrypt each individual file or the whole disk. The latter is best since a _full disk encryption_ will protect all your files even when opened or being edited [see this document for Symantec for more info](./how_wholedisk_encryption_works.pdf).   
+
+On Mac OS X, the __FileVault__ application takes care of the encryption.  
+On Windows 7 and 10, the __BitLocker__ application is the one that does a similar thing.  
+Please follow this step-by-step tutorial: https://www.cloudwards.net/how-to-encrypt-your-hard-drive/
 
 
 # What to do in case your computer gets stolen
@@ -35,7 +41,7 @@ Preferably phone them so they can guide you through the procedure.
 
 - :email: Email: servicedesk-icts@uva.nl
 - :phone: Phone: +31 (0)20 525 1402
-- :clock8: - : clock6: They are opened from Monday to Friday from 8.00 to 18.00.
+- :clock8: - :clock6: They are opened from Monday to Friday from 8.00 to 18.00.
 
 
 ## File a police complaint 
