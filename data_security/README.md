@@ -1,3 +1,24 @@
+- [Research and personal data security ](#research-and-personal-data-security-)
+- [Why is it important to protect your data? ](#why-is-it-important-to-protect-your-data-)
+  - [It protects you](#it-protects-you)
+  - [It protects others](#it-protects-others)
+  - [It is legally required](#it-is-legally-required)
+  - [It protects your work](#it-protects-your-work)
+- [What can you do to protect your data? ](#what-can-you-do-to-protect-your-data-)
+  - [Enable 2-factor authentification ](#enable-2-factor-authentification-)
+  - [Encrypt your hard drive](#encrypt-your-hard-drive)
+- [What to do in case your computer gets lost or stolen](#what-to-do-in-case-your-computer-gets-lost-or-stolen)
+  - [Use a "Find my device" tool](#use-a-find-my-device-tool)
+    - [Apple Find My App tool](#apple-find-my-app-tool)
+    - [Windows Find my device](#windows-find-my-device)
+  - [Report to the University ICT Helpdesk](#report-to-the-university-ict-helpdesk)
+  - [File a police complaint ](#file-a-police-complaint-)
+- [References](#references)
+  - [Document authors](#document-authors)
+  - [Two-factor authentification](#two-factor-authentification)
+  - [Data encryption](#data-encryption)
+
+
 # Research and personal data security 
 :lock: :lock: :lock: :lock: :lock: :lock: :lock: :lock: :lock: :lock: :lock: :lock: :computer: :lock: :lock: :lock: :lock: :lock: :lock: :lock: :lock: :lock: :lock: :lock: :lock:
 
@@ -12,6 +33,7 @@ To get something positive out of this negative experience, I shaped this little 
 This document will list: 
 1. Why it is important to protect your research and personal data stored on your local machine (laptop or desk computer). 
 2. What you can do to improve your data security.
+
 
 # Why is it important to protect your data? 
 
@@ -103,7 +125,7 @@ Your complaint will be processed (mine took a few hours). When you receive the p
 # References
 
 ## Document authors
-__Marc Galland__: www.mgalland.info
+__Marc Galland__: www.mgalland.info  
 __Petra Bleeker__: P.M.Bleeker at uva.nl
 
 ## Two-factor authentification
