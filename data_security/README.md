@@ -1,7 +1,13 @@
 # How to protect your research and personal data 
-:lock: :lock: :lock: :lock: :lock: :lock: :computer: :lock: :lock: :lock: :lock: :lock: :lock:
+:lock: :lock: :lock: :lock: :lock: :lock: :lock: :lock: :lock: :lock: :lock: :lock: :computer: :lock: :lock: :lock: :lock: :lock: :lock: :lock: :lock: :lock: :lock: :lock: :lock:
 
-This little document is based on what I learnt when my laptop got stolen at the University. I hope it is useful for researchers to reckon why protecting your personal and research data is important. And help you to protect them with the maximum security.
+This little document is based on what I learnt when my laptop got stolen at the University. At the time I got: 
+* :fearful: fearful "Oh, what did I exactly had on this laptop?".
+* :angry: angry "What I'd like to do to the thief if I had him/her in front of me right now...". 
+* :cry: sad "I am supposed to help others to take care of their data and I cannot take care of mine properly".
+* :weary: weary "The only time that I don't lock up this laptop and it gets stolen". 
+
+To get something positive out of this negative experience, I shaped this little tutorial on what can be done to improve data security and protection. I hope it is simple enough and useful for researchers to reckon why protecting your personal and research data is important. And help you to protect them with the maximum security.
 
 This document will list: 
 1. Why it is important to protect your research and personal data stored on your local machine (laptop or desk computer). 
@@ -23,10 +29,14 @@ On Windows 7 and 10, the __BitLocker__ application is the one that does a simila
 Please follow this step-by-step tutorial: https://www.cloudwards.net/how-to-encrypt-your-hard-drive/
 
 
-# What to do in case your computer gets stolen
+# What to do in case your computer gets lost or stolen
+:scream: :scream: :scream: :scream: :scream: :scream: :scream: :scream: :scream: :scream: :scream: :scream: :scream: :scream: :scream: :scream: 
 
-## Use Apple Find My App tool
-Can be used to:
+## Use a "Find my device" tool
+This will ensure that you can lock your device remotely and even erase important data from another machine.
+
+### Apple Find My App tool
+This app can be used to:
 * find your device (smartphone or laptop)
 * mark your device as lost
 * send a custom message on the device ("this laptop has been lost/stolen, please call me at this number XXX").
@@ -34,9 +44,16 @@ Can be used to:
 
 Complete information on Apple Support: https://support.apple.com/en-us/HT204756
 
-## Use Windows 
+### Windows Find my device
+This device can be used to:
+* locate your lost/stolen device.
+* lock your device remotely.
+
+Complete information on Windows Support: https://support.microsoft.com/en-sg/help/11579/microsoft-account-find-and-lock-lost-windows-device
 
 ## Report to the University ICT Helpdesk
+<img scr="./keep-calm-and-call-the-servicedesk-ict.png" width="400px">  
+
 Preferably phone them so they can guide you through the procedure.
 
 - :email: Email: servicedesk-icts@uva.nl
