@@ -18,7 +18,7 @@ This document will list:
   - [It protects others](#it-protects-others)
   - [It is legally required](#it-is-legally-required)
   - [It protects your work](#it-protects-your-work)
-- [What can you do to protect your data? ](#what-can-you-do-to-protect-your-data-)
+- [What can you do to protect your data? ](#what-can-you-do-to-protect-your-data)
   - [Enable 2-factor authentification ](#enable-2-factor-authentification-)
   - [Encrypt your hard drive](#encrypt-your-hard-drive)
 - [What to do in case your computer gets lost or stolen](#what-to-do-in-case-your-computer-gets-lost-or-stolen)
