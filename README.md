@@ -8,10 +8,18 @@ More can be found on [Github itself](https://guides.github.com/features/masterin
 This folder contains protocols for insect bioassays (whitefly, western flower thrips).
 
 # Bioinformatics
-For now, it only contain the steps to perform a local_blast.
+* How to perform a local_blast.
+* Tomato genome browser for our expression datasets (password required): http://genseq-h0.science.uva.nl/MarcsJBrowse/?data=ITAG3.0
+* Tomato genomes and de novo transcriptomes blast server (password protected): http://genseq-h0.science.uva.nl/SeqServ/
+
+To request a password for a new user, first contact Marc Galland (m.galland@uva.nl) by sending him an email.  If not possible, please contact Wim de Leeuw (RNA Biology and Applied Bioinformatics, SILS) to get access. 
 
 # Microscopy
 Trichome staining etc.
 
-# molecular_biology
+# Molecular Biology
 Gene expression measurements (qPCR) etc.
+
+# Data security
+
+# Reaearch Data Management
