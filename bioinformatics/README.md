@@ -15,8 +15,17 @@ To connect, type in your favorite Shell the following commands:
 
 To get an understanding of the Shell and make use of it, please follow this tutorial to get some basic knowledge: https://swcarpentry.github.io/shell-novice/  
 
-  
+## Genome references (fasta format)
+The fasta files of the different genomes (both public and private) are available from the Zenodo archive: https://doi.org/10.5281/zenodo.3613695
 
+* Solanum lycopersicum (assemblies 3.0 and 4.0):
+  * S_lycopersicum_chromosomes.3.00.fa.tar.gz
+  * S_lycopersicum_chromosomes.4.00.fa.tar.gz
+* Solanum pennellii (one version only from Bolger et al., 2014) : Spenn.fasta.tar.gz
+* Solanum habrochaites LA1777 (technology hotel project 2018): LA1777.final.fasta  
+* Solanum habrochaites PI127826 (technology hotel project 2018): PI127826.final.fasta  
+* Solanum habrochaites LYC4 (from the paper of Aflitos et al. 2014. 3rd assembly version). S_habrochaites_LYC4...
+  
 ## Genome browsers
 You will need a user name and a password. Please contact your local genome browser admin: m.galland@uva.nl 
 
@@ -30,7 +39,7 @@ Link (password protected) :http://genseq-h0.science.uva.nl/MarcsJBrowse/?data=Sp
 
 ## Blast server (Sequence Server) for tomato genomics
 
-The following link redirects to a Sequence Server implementation that allows you to perform BLAST on custom resources.
+The following link redirects to a Sequence Server implementation that allows you to perform BLAST on custom resources: http://genseq-h0.science.uva.nl/SeqServ/
 
 Available resources:
 - 19 Trinity-assembled de novo transcriptomes of wild tomato genotypes.  
