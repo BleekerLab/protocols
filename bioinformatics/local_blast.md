@@ -6,20 +6,20 @@ From NCBI Blast:
 Most things come NCBI directly: [find it here](https://www.ncbi.nlm.nih.gov/books/NBK52640/)
 
 # Installation and setup of the blast program
-## get the latest NCBI blast program.
 
-[Latest blast program for Mac Os X](ftp://ftp.ncbi.nlm.nih.gov/blast/executables/LATEST/ncbi-blast-2.6.0+.dmg) (for Mac Os X)
+## Install Miniconda3 
 
-## Install it on your computer. 
+1. Navigate to the [Miniconda installer webpage](https://docs.conda.io/en/latest/miniconda.html)
+2. Download and install the one for your operating system (e.g. Windows).
+3. Start a Shell and run `bash Miniconda3-latest-MacOSX-x86_64.sh` (example given for Mac OS X).
+4. Follow the installation procedure and answer the questions asked.
 
-Start a bash session [more help here](http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line)
-The computer has to know where to find the blast program. What you need to do is to edit your "PATH" variable.When running a bash session:
+## Install NCBI Blast using conda
 
-1.  Type in `nano ~/.bash_profile`
-2.  Add these two lines: `PATH=$PATH:$HOME/ncbi-blast-2.2.29+/bin` and below `export PATH`
-__Important__: here the path points to your home directory. You can put the program anywhere on your computer as long as you know where you've put it.
-3.  Type in `source ~/.bash_profile`
-4.  check that it worked: `echo $PATH`
+In your Shell:
+1. If conda is properly installed, then you can type: `conda --version` and you should get a number speciyfing the version number of conda.
+2. It's a good practice to create a dedicated environment separated from your base environment. Do this: `conda env create --name blast -c bioconda blast`. This will install the latest version of ncbi blast. 
+3. Activate this enviromnent: `conda activate blast`
 
 # Format the blast database
 You know need to create a blast database. It converts a FASTA file into a custom blast database format.
